@@ -1,0 +1,15 @@
+
+# LS
+alias ll='ls -lF'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Git
+alias gits='git status'
+alias gitd='git diff'
+alias gitcout='git checkout'
+alias gitpo='git push origin'
+alias gitplo='git pull origin'
+alias gcommit='git commit -m'
+alias gamend='git commit --amend'
+alias gitlg='git log --oneline'
