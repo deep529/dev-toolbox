@@ -1,0 +1,18 @@
+[
+    {
+        "key": "ctrl+shift+e",
+        "command": "-workbench.view.explorer",
+        "when": "viewContainer.workbench.view.explorer.enabled"
+    },
+    {
+        "key": "alt+1",
+        "command": "workbench.action.closeSidebar",
+        "when": "explorerViewletVisible"
+    },
+    {
+        "key": "alt+1",
+        "command": "workbench.view.explorer",
+        "when": "!explorerViewletVisible"
+    }
+]
+
